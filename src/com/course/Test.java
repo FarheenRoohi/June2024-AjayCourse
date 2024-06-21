@@ -3,8 +3,10 @@ package com.course;
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	int c=10;
+	int a=5;
+	int b=c-a;
+    System.out.println(c);
 	}
 
 }
