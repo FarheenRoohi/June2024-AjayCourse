@@ -8,6 +8,8 @@ public class Test {
 	int b=c-a;
 	String name= "qrs";
     System.out.println(c);
+		// new code is added
+			
 	}
 
 }
