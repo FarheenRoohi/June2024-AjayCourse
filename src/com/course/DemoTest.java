@@ -7,9 +7,11 @@ public class DemoTest {
 		int b = 30;
 		int c = a + b;
 		System.out.println(c);
-
+                // inside the main method
+		// inside main metho
 	}
    void printMethod() {
 	   System.out.println("This is print method");
    }
+	
 }
