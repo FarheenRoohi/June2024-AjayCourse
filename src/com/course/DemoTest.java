@@ -9,5 +9,7 @@ public class DemoTest {
 		System.out.println(c);
 
 	}
-
+   void printMethod() {
+	   System.out.println("This is print method");
+   }
 }
