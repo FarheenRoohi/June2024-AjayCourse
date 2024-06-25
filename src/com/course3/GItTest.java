@@ -4,6 +4,8 @@ public class GItTest {
 
 	public static void main(String[] args) {
 		System.out.println("this is git");
+		System.out.println("this is git");
+		
 
 	}
 
